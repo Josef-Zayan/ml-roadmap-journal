@@ -19,4 +19,4 @@ My 24-week AI/ML engineering roadmap (v3), started 23 Oct 2026.
 
 | Week | Done | Blockers |
 |---|---|---|
-| 1 | Setup, first commit, first push | |
+| 1 | | |
